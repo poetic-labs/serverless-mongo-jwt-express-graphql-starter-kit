@@ -18,3 +18,4 @@ this app should be as close as plug in and play
 - implement jwt, make sure user can sign up, login and be authenticated,
   make sure authenticated user and unauthenticated user see different feedback
   - use graphQL to do the login or use dedicated serverless endpoin?
+- abstract this into lib, cli, a service?
